@@ -28,7 +28,7 @@ NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
 
 //this is where you put the Blynk authorization token
 //it can be found in the project settings under the nut icon
-char auth[] = "fefb544ba1e5450db5f8d742e6755ef3";
+char auth[] = "BLYNK AUTH TOKEN HERE";
 
 //wifi credentials go here
 //wifi name goes in ssid. It must be typed EXACTLY as the network name is displayed
